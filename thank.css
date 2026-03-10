@@ -94,6 +94,10 @@ a{
     text-align: center; /* center text for mobile */
   }
 
+  .content h5{
+    font-size: 14px;
+  }
+
   .socials {
     display: flex;
     justify-content: center; /* center icons */
@@ -109,4 +113,5 @@ a{
     top: 15px;
   }
 }
+
 
