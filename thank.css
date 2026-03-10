@@ -11,6 +11,10 @@ body{
   margin-left: 300px;
   margin-bottom: 80px;
 }
+
+.thankyou-card h5{
+  margin-left: -300px;
+}
 /* Overlay */
 .overlay{
   position:fixed;
@@ -105,3 +109,4 @@ a{
     top: 15px;
   }
 }
+
